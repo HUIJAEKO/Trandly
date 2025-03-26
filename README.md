@@ -41,7 +41,7 @@ Redis의 SortedSet 구조를 이용해 상품의 클릭 수를 기록하고,
 ---
 
 ## ERD
-![erd](images/Trandly_erd_ver2.png)
+![erd](images/Trandly_erd.png)
 
 ---
 
